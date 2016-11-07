@@ -23,4 +23,4 @@ Instructions:
 
 	Outer Join
 
-5.	Save your project, create a git repository on github.com, and upload your project to that repository, share the repository with alan.zych@flynncompanies.com. 
+5.	Save your project, create a git repository on github.com, and upload your visual studio project to that repository, share the repository with alan.zych@flynncompanies.com. 
