@@ -5,6 +5,7 @@ This exercise is meant to test your ability to learn new technologies in a pract
 Before you begin, please make sure you install the following on your machine:
 -	Visual Studio 2015 Community: https://www.visualstudio.com/downloads/
 -	SQL Server 2016 Express: https://www.microsoft.com/en-us/download/details.aspx?id=52679
+
 Other versions of Visual Studio or SQL Server may work, but this exercise has only been tested using these configurations.
 Please also ensure you have an SQL Server instance set up on your machine when you install.
 
